@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sellison8.github.io/sellison8/sitemap.xml
+Sitemap: https://sellison8.github.io/sitemap.xml
